@@ -66,5 +66,5 @@ Feel free to open issues or submit pull requests. Any contributions are welcome!
 
 If you have any questions, feel free to reach out:
 
-- **Your Name**: [Email](mailto:nithinrajulapati9999@gmail.com)
-- **GitHub**: [Your GitHub Profile]([https://github.com/yourusername](https://github.com/Nani1-glitch))
+- **Your Name**: (mailto:nithinrajulapati9999@gmail.com)
+- **GitHub**:([https://github.com/yourusername](https://github.com/Nani1-glitch))
