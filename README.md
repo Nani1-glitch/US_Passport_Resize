@@ -31,7 +31,7 @@ cd passport-photo-generator
 Input the file path of the image you want to process.
 
 The script will generate a passport photo and display it.
-
+```
 ## 📸 Example
 
 Here’s an example of how the tool works:
